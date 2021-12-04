@@ -48,8 +48,16 @@ You will need the following tools and components to build the Basketweave (not i
 |         | Case foam              | 1
 |         | Acrylic case layers    | 7
 
+### USB Port
+I like doing the USB port first because I have lots of space to work with.  Heat resistant tape will be useful here to keep the usb port in place.
+Solder one of the large legs first and check that the port is flush before soldering the other three legs. \
+Solder the smaller pins by applying no-clean flux across the pins, then drag a small amount of solder across the pins until all the holes are filled.
+
+![usbc](https://user-images.githubusercontent.com/800930/144701028-55195723-9e37-4ee0-8cce-97262775312a.jpg)
+
 ### Zener Diodes (D93, D94)
 **This part has specific orientation** - black line on the diode lines up with the square pad (points left)
+
 ![d93-d94](https://user-images.githubusercontent.com/800930/144701106-048eda11-7555-440f-929f-435d162cf98d.jpg)
 
 ### Resistors (R1-7)
@@ -60,6 +68,7 @@ Orientation does not matter. Solder based on the labeled values.
 | R2, R5 | 5.1k  |
 | R3, R4 | 75    |
 | R6     | 10k   |
+
 ![r7-r1](https://user-images.githubusercontent.com/800930/144701127-c6f712bb-3042-41db-84a1-cedace2d651b.jpg)
 ![r5-r2](https://user-images.githubusercontent.com/800930/144701131-21c64dd1-7633-416c-bf8a-428160addf06.jpg)
 ![r3-r4](https://user-images.githubusercontent.com/800930/144701132-2d692214-4e4f-490f-b0d4-2cc8aeacc0c6.jpg)
@@ -67,14 +76,18 @@ Orientation does not matter. Solder based on the labeled values.
 
 ### 1n1418 Diodes (D1-D92)
 **This part has a specific orientation** - black line on the diode lines up with the square pad (points up)
+
 ![d1-d44](https://user-images.githubusercontent.com/800930/144701156-b7adb07b-b1fe-4656-922f-2ad8b8ffb0b7.jpg)
 ![d45-d92](https://user-images.githubusercontent.com/800930/144701163-18f6352d-16f1-49ce-b1bf-5cd31e75b652.jpg)
 
 ### Capslock LED (optional)
 Check your switch before doing this.  You may need to solder the LED AFTER you solder you switch.  Short leg \
-goes in the square pad.
+goes in the square pad.  Use the left holes for a stepped keycap.
+
+![caps-led](https://user-images.githubusercontent.com/800930/144701449-40d33008-8b8e-45d1-aa4d-8b70a19723bb.jpg)
 
 ### Capslock 470 resistor (R8)
+
 ![r8](https://user-images.githubusercontent.com/800930/144701182-67c8341a-5e76-4710-a43c-32560f133122.jpg)
 
 ### Capacitors (C1-4)
@@ -83,18 +96,15 @@ Orientation does not matter. Solder based on the labeled values.
 | ------ | ----- |
 | C1, C2 | 22uF  |
 | C3, C4 | 0.1uF |
+
 ![c1](https://user-images.githubusercontent.com/800930/144701002-f5a47306-cd93-4175-97ea-28e250d62aed.jpg)
 ![c2](https://user-images.githubusercontent.com/800930/144701004-8d5d2d50-50b2-4205-bff3-0730f8d4b878.jpg)
 ![c3](https://user-images.githubusercontent.com/800930/144701008-4307959c-b4df-4e8c-a564-a3cc2c44e350.jpg)
 ![c4](https://user-images.githubusercontent.com/800930/144701014-9e5c1946-0949-499e-ae38-582e0e030e89.jpg)
 
-### USB Port
-Solder one of the large legs first and check that the port is flush before soldering the other three legs. \
-Solder the smaller pins by applying no-clean flux across the pins, then drag a small amount of solder across the pins until all the holes are filled.
-![usbc](https://user-images.githubusercontent.com/800930/144701028-55195723-9e37-4ee0-8cce-97262775312a.jpg)
-
 ### Capacitor (C5)
 **This part has a specific orientation** - longer leg goes in square pad (white mark on the capacitor points up)
+
 ![c5](https://user-images.githubusercontent.com/800930/144701035-6b10fdfd-59bd-486b-b245-1fbae8491f38.jpg)
 
 ### Fuse
@@ -103,20 +113,24 @@ Orientation does not matter. Fold down after soldering.
 
 ### Crystal (Y1)
 Orientation does not matter.
+
 ![y1](https://user-images.githubusercontent.com/800930/144701040-a7468eaf-cea2-4d13-ba39-6dadd62de752.jpg)
 
 ### Power LED
 **This part has a specific orientation** - shorter leg and flat side of the LED line up with the square pad
+
 ![power](https://user-images.githubusercontent.com/800930/144701055-2c84b223-0c63-4b7f-9664-c3106bba74f7.jpg)
 
 ### Push Button (RESET, BOOT) and IC Socket
 Push buttons have no specific orientation. \
 Align the notch on the IC Socket with the markings on the PCB. 
+
 ![reset-boot](https://user-images.githubusercontent.com/800930/144701061-e5c8209f-8070-471a-a7a6-63bdfa80daea.jpg)
 ![mcu-socket](https://user-images.githubusercontent.com/800930/144701085-cd923aeb-6c7e-4874-a35e-32b6a685cbe9.jpg)
 
 ### Pin Header
 Orientation does not matter. 
+
 ![isp1](https://user-images.githubusercontent.com/800930/144701062-1a878a6f-ad83-4e97-842a-774bb77d88d0.jpg)
 
 ### ATmega32A
@@ -125,4 +139,5 @@ Insert ATmega32A into the IC socket. Make sure the notch on the microcontroller 
 ###  Encoder
 Install the stabilizers, then place the plate on top. \
 Install and solder switches and rotary encoder.
+
 ![rotary-encoder](https://user-images.githubusercontent.com/800930/144701095-f28bb927-d644-4fd2-b83b-c39da5a0bfc4.jpg)
