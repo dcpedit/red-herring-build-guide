@@ -152,6 +152,8 @@ Install and solder switches and rotary encoder.
 
 The 2mm plate foam goes between the PCB and switch plate.  Make sure those are in place before placing your switches in.  As you insert switch one at a time, make they snap into switch plate completely.  You man need to wedge a finger or tool in between the PCB and plate to push the plate upwards while pushing the switch downwards.
 
+![IMG_3048 (1)](https://user-images.githubusercontent.com/800930/144715808-5441f024-4c31-4cf4-8151-d7efeb58badb.jpg)
+
 ## Case Assembly
 Double check that the protective paper masking has been peeled of the front AND back of eacy acrylic layer.  Try to find a dust-free area to work in, and have a microfiber cloth handy to wipe of dust that collects on the acrylic.  Best to keep the masking on until needed to minimize dust and scratches.
 
@@ -190,7 +192,7 @@ Double check that the protective paper masking has been peeled of the front AND 
 ### PCB & Switch Plate
 Make sure your OLED display has been inserted into the OLED header. 2mm plate foam goes inbetween the PCB and switch plate.
 
-![IMG_3018](https://user-images.githubusercontent.com/800930/144702095-edfe0c6c-30a0-40e7-97e6-fff45632605b.jpg)
+![IMG_2982](https://user-images.githubusercontent.com/800930/144715823-a4e80411-b0ec-420b-a25a-0015eba6a05f.jpg)
 
 ### PCB top layer
 The acrylic areas that extend inward on this layer need to fit into the open areas in the switch plate.  The fitment is tight in order to keep the PCB from shifting, so make sure this layer is pushed all the way down on top of the previous layer and that it's not caught onto an edged of the switch plate.
