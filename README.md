@@ -56,7 +56,7 @@ Solder the smaller pins by applying no-clean flux across the pins, then drag a s
 ![usbc](https://user-images.githubusercontent.com/800930/144701028-55195723-9e37-4ee0-8cce-97262775312a.jpg)
 
 ### Zener Diodes (D93, D94)
-**This part has specific orientation** - black line on the diode lines up with the square pad (points left)
+**This part has specific orientation** - black line on the diode lines up with the square pad.
 
 ![d93-d94](https://user-images.githubusercontent.com/800930/144701106-048eda11-7555-440f-929f-435d162cf98d.jpg)
 
@@ -133,6 +133,11 @@ Orientation does not matter.
 
 ![isp1](https://user-images.githubusercontent.com/800930/144701062-1a878a6f-ad83-4e97-842a-774bb77d88d0.jpg)
 
+### OLED Header
+Orientation does not matter.
+
+![oled-header](https://user-images.githubusercontent.com/800930/144702052-e8cfc8cd-1268-4091-b99a-a7bb67b7605b.jpg)
+
 ### ATmega32A
 Insert ATmega32A into the IC socket. Make sure the notch on the microcontroller aligns with the notch in the IC socket and the markings on the PCB.
 
@@ -141,3 +146,21 @@ Install the stabilizers, then place the plate on top. \
 Install and solder switches and rotary encoder.
 
 ![rotary-encoder](https://user-images.githubusercontent.com/800930/144701095-f28bb927-d644-4fd2-b83b-c39da5a0bfc4.jpg)
+
+## Case Assembly
+
+![IMG_3010](https://user-images.githubusercontent.com/800930/144702072-3dcd0fef-d6bb-42ae-84b5-3d1e8edf7058.jpg)
+![IMG_3011](https://user-images.githubusercontent.com/800930/144702075-837352fe-0678-4ef9-91e7-a16be9d48472.jpg)
+![IMG_3012](https://user-images.githubusercontent.com/800930/144702078-c1acdc79-5fe5-4557-a374-d3e1daf51d71.jpg)
+![IMG_3013](https://user-images.githubusercontent.com/800930/144702081-bcd66dcb-7b2f-49f9-b565-dbf64f8a94f1.jpg)
+![IMG_3014](https://user-images.githubusercontent.com/800930/144702084-7680bce3-54d9-4b60-84f0-760ba9e5e735.jpg)
+![IMG_3015](https://user-images.githubusercontent.com/800930/144702087-6e7cede8-f8d6-4e22-97cb-9dcbfdbea09b.jpg)
+![IMG_3016](https://user-images.githubusercontent.com/800930/144702090-180a1e91-910a-4c2f-9901-e82bb78b438c.jpg)
+![IMG_3017](https://user-images.githubusercontent.com/800930/144702092-a48e1149-e481-4907-8348-4cbebf39155d.jpg)
+![IMG_3018](https://user-images.githubusercontent.com/800930/144702095-edfe0c6c-30a0-40e7-97e6-fff45632605b.jpg)
+![IMG_3019](https://user-images.githubusercontent.com/800930/144702097-8040aab9-7b8b-45c5-9991-6125a6cbd798.jpg)
+![IMG_3021](https://user-images.githubusercontent.com/800930/144702099-e8d70c54-8e8f-493c-9f87-66212344c26c.jpg)
+![IMG_3022](https://user-images.githubusercontent.com/800930/144702101-c941351d-d69b-4a6d-94e6-7f3dbef8ffd2.jpg)
+![IMG_3023](https://user-images.githubusercontent.com/800930/144702103-6c3f5b47-84c4-4367-88dd-210a8e24e82b.jpg)
+![IMG_3025](https://user-images.githubusercontent.com/800930/144702105-8c7c3258-5ced-4c9f-ab02-6bb14084bd6a.jpg)
+
