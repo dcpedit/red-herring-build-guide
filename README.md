@@ -149,18 +149,60 @@ Install and solder switches and rotary encoder.
 
 ## Case Assembly
 
+### Feet #1 - 6mm screws (x5) & 24mm standoffs (x5)
+
 ![IMG_3010](https://user-images.githubusercontent.com/800930/144702072-3dcd0fef-d6bb-42ae-84b5-3d1e8edf7058.jpg)
+
+### Feet #2
+
 ![IMG_3011](https://user-images.githubusercontent.com/800930/144702075-837352fe-0678-4ef9-91e7-a16be9d48472.jpg)
+
+### Feet #2 - 6mm screw & 18mm standoff
+
 ![IMG_3012](https://user-images.githubusercontent.com/800930/144702078-c1acdc79-5fe5-4557-a374-d3e1daf51d71.jpg)
+
+### Feet #4 - 6mm screw & 15mm standoff
+
 ![IMG_3013](https://user-images.githubusercontent.com/800930/144702081-bcd66dcb-7b2f-49f9-b565-dbf64f8a94f1.jpg)
+
+### Bottom - 6mm screws (x5) & 13mm standoffs (x5)
+
 ![IMG_3014](https://user-images.githubusercontent.com/800930/144702084-7680bce3-54d9-4b60-84f0-760ba9e5e735.jpg)
+
+### Spacer #1
+
 ![IMG_3015](https://user-images.githubusercontent.com/800930/144702087-6e7cede8-f8d6-4e22-97cb-9dcbfdbea09b.jpg)
+
+### 1mm Foam
+
 ![IMG_3016](https://user-images.githubusercontent.com/800930/144702090-180a1e91-910a-4c2f-9901-e82bb78b438c.jpg)
+
+### Spacer #2
+
 ![IMG_3017](https://user-images.githubusercontent.com/800930/144702092-a48e1149-e481-4907-8348-4cbebf39155d.jpg)
+
+### PCB & Switch Plate
+Make sure your OLED display has been inserted into the OLED header
+
 ![IMG_3018](https://user-images.githubusercontent.com/800930/144702095-edfe0c6c-30a0-40e7-97e6-fff45632605b.jpg)
+
+### PCB top layer
+
 ![IMG_3019](https://user-images.githubusercontent.com/800930/144702097-8040aab9-7b8b-45c5-9991-6125a6cbd798.jpg)
+
+### Top layer #1
+
 ![IMG_3021](https://user-images.githubusercontent.com/800930/144702099-e8d70c54-8e8f-493c-9f87-66212344c26c.jpg)
+
+### Top layer #2
+
 ![IMG_3022](https://user-images.githubusercontent.com/800930/144702101-c941351d-d69b-4a6d-94e6-7f3dbef8ffd2.jpg)
+
+### Clear top: 8mm screws (x12)
+
 ![IMG_3023](https://user-images.githubusercontent.com/800930/144702103-6c3f5b47-84c4-4367-88dd-210a8e24e82b.jpg)
+
+### Rotary Knob
+
 ![IMG_3025](https://user-images.githubusercontent.com/800930/144702105-8c7c3258-5ced-4c9f-ab02-6bb14084bd6a.jpg)
 
