@@ -56,7 +56,7 @@ Solder the smaller pins by applying no-clean flux across the pins, then drag a s
 ![usbc](https://user-images.githubusercontent.com/800930/144701028-55195723-9e37-4ee0-8cce-97262775312a.jpg)
 
 ### Zener Diodes (D93, D94)
-**This part has specific orientation** - black line on the diode lines up with the square pad.
+**This part has specific orientation** - black line on the diode lines up with the square pad (right side).
 
 ![d93-d94](https://user-images.githubusercontent.com/800930/144701106-048eda11-7555-440f-929f-435d162cf98d.jpg)
 
