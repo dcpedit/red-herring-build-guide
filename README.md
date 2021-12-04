@@ -109,6 +109,7 @@ Orientation does not matter. Solder based on the labeled values.
 
 ### Fuse
 Orientation does not matter. Fold down after soldering.
+
 ![fuse](https://user-images.githubusercontent.com/800930/144701037-a6d2cf3c-e2dc-4c4a-9479-6570e64dee23.jpg)
 
 ### Crystal (Y1)
