@@ -193,6 +193,7 @@ Make sure your OLED display has been inserted into the OLED header. 2mm plate fo
 ![IMG_3018](https://user-images.githubusercontent.com/800930/144702095-edfe0c6c-30a0-40e7-97e6-fff45632605b.jpg)
 
 ### PCB top layer
+The acrylic areas that extend inward on this layer need to fit into the open areas in the switch plate.  The fitment is tight in order to keep the PCB from shifting, so make sure this layer is pushed all the way down on top of the previous layer and that it's not caught onto an edged of the switch plate.
 
 ![IMG_3019](https://user-images.githubusercontent.com/800930/144702097-8040aab9-7b8b-45c5-9991-6125a6cbd798.jpg)
 
@@ -209,6 +210,7 @@ Make sure your OLED display has been inserted into the OLED header. 2mm plate fo
 ![IMG_3023](https://user-images.githubusercontent.com/800930/144702103-6c3f5b47-84c4-4367-88dd-210a8e24e82b.jpg)
 
 ### Rotary Knob
+You may need to tighten the knob screws (one one each side) slightly before the knob hits the bottom.  Otherwise, you may not have engough clearance below the knob for the rotary knob "button" to be depressed (when you push straight down on the knob).
 
 ![IMG_3025](https://user-images.githubusercontent.com/800930/144702105-8c7c3258-5ced-4c9f-ab02-6bb14084bd6a.jpg)
 
