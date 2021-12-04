@@ -1,7 +1,7 @@
 # Build Guide
 
 ## Required Components
-You will need the following tools and components to build the Basketweave (not included in the kit):
+You will need the following tools and components to build the keyboard (not included in the kit):
 - Soldering iron and solder
 - Flush side cutters
 - No-clean flux
@@ -44,8 +44,8 @@ You will need the following tools and components to build the Basketweave (not i
 |         | Rubber Feet            | 4
 |         | Red Herring PCB        | 1
 |         | Switch plate           | 1
-|         | Plate foam             | 1
-|         | Case foam              | 1
+|         | Plate foam (2mm)       | 1
+|         | Case foam (1mm)        | 1
 |         | Acrylic case layers    | 7
 
 ### USB Port
@@ -73,12 +73,6 @@ Orientation does not matter. Solder based on the labeled values.
 ![r5-r2](https://user-images.githubusercontent.com/800930/144701131-21c64dd1-7633-416c-bf8a-428160addf06.jpg)
 ![r3-r4](https://user-images.githubusercontent.com/800930/144701132-2d692214-4e4f-490f-b0d4-2cc8aeacc0c6.jpg)
 ![r6](https://user-images.githubusercontent.com/800930/144701138-a02562c5-93ca-4123-86c0-234244662661.jpg)
-
-### 1n1418 Diodes (D1-D92)
-**This part has a specific orientation** - black line on the diode lines up with the square pad (points up)
-
-![d1-d44](https://user-images.githubusercontent.com/800930/144701156-b7adb07b-b1fe-4656-922f-2ad8b8ffb0b7.jpg)
-![d45-d92](https://user-images.githubusercontent.com/800930/144701163-18f6352d-16f1-49ce-b1bf-5cd31e75b652.jpg)
 
 ### Capslock LED (optional)
 Check your switch before doing this.  You may need to solder the LED AFTER you solder you switch.  Short leg \
@@ -141,6 +135,12 @@ Orientation does not matter.
 
 ### ATmega32A
 Insert ATmega32A into the IC socket. Make sure the notch on the microcontroller aligns with the notch in the IC socket and the markings on the PCB.
+
+### 1n1418 Diodes (D1-D92)
+**This part has a specific orientation** - black line on the diode lines up with the square pad (points up)
+
+![d1-d44](https://user-images.githubusercontent.com/800930/144701156-b7adb07b-b1fe-4656-922f-2ad8b8ffb0b7.jpg)
+![d45-d92](https://user-images.githubusercontent.com/800930/144701163-18f6352d-16f1-49ce-b1bf-5cd31e75b652.jpg)
 
 ###  Encoder
 Install the stabilizers, then place the plate on top. \
