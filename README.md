@@ -148,7 +148,9 @@ Install and solder switches and rotary encoder.
 
 ![rotary-encoder](https://user-images.githubusercontent.com/800930/144701095-f28bb927-d644-4fd2-b83b-c39da5a0bfc4.jpg)
 
-### PCB Mount 
+### PCB Mount Stabalizers (x5)
+![full_board](https://user-images.githubusercontent.com/800930/144729033-c1ff4f3c-ff49-4ce4-8191-3a6c88df637b.jpg)
+
 ### Plate Foam & Switch plate
 
 The 2mm plate foam goes between the PCB and switch plate.  Make sure those are in place before placing your switches in.  As you insert switch one at a time, make they snap into switch plate completely.  You man need to wedge a finger or tool in between the PCB and plate to push the plate upwards while pushing the switch downwards.
