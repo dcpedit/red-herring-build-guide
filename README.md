@@ -1,4 +1,5 @@
 # Build Guide
+This guide is based off the Basketweave guide by null-ll.  The components are layed out in a similar fashion.
 
 ## Required Components
 You will need the following tools and components to build the keyboard (not included in the kit):
@@ -129,7 +130,7 @@ Orientation does not matter.
 ![isp1](https://user-images.githubusercontent.com/800930/144701062-1a878a6f-ad83-4e97-842a-774bb77d88d0.jpg)
 
 ### OLED Header
-Orientation does not matter.
+First insert the OLED display into the header.  This is important because you want to align the display to look perfectly vertical and parallel to the PCB.  With the display firmly seated into the header, insert the header pins into the holes on the PCB.  Using as little solder as possible, tack down only **one** pin so that it holds the display in place.  Look straight down onto the display screen and make sure that it's vertical.  Now tilt the PCB onto its side and make sure the display is parallel to the PCB.  If it looks off in any way, heat the solder up again and make minor adjustments while the solder is still molten.  Then hold it in place until the solder solidifies.  Once the position of the display looks correct, solder the **other** pins that don't have solder yet, and then finally, the pin that had a minimal amount of solder.
 
 ![oled-header](https://user-images.githubusercontent.com/800930/144702052-e8cfc8cd-1268-4091-b99a-a7bb67b7605b.jpg)
 
