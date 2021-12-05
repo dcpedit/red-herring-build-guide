@@ -30,7 +30,7 @@ You will need the following tools and components to build the keyboard (not incl
 | R6      | 10k Resistor           | 1 
 | U1      | ATmega32A              | 1
 |         | 40 pin IC socket       | 1
-| RESET, BOOT | 6mm push button    | 1
+| RESET, BOOT | 6mm push button    | 2
 | Y1      | 16MHz Crystal          | 1
 |         | SH1107 OLED display    | 1
 |         | EC11 Rotary encoder    | 1
@@ -75,7 +75,7 @@ Orientation does not matter. Solder based on the labeled values.
 ![r6](https://user-images.githubusercontent.com/800930/144701138-a02562c5-93ca-4123-86c0-234244662661.jpg)
 
 ### Capslock LED (optional)
-Check your switch before doing this.  You may need to solder the LED AFTER you solder you switch.  Short leg \
+Check your switch before doing this.  You may need to solder the LED **after** you solder the switch, especially if the switch does not have a large opening on the bottom for the LED.  Short leg \
 goes in the square pad.  Use the left holes for a stepped keycap.
 
 ![caps-led](https://user-images.githubusercontent.com/800930/144701449-40d33008-8b8e-45d1-aa4d-8b70a19723bb.jpg)
@@ -148,6 +148,7 @@ Install and solder switches and rotary encoder.
 
 ![rotary-encoder](https://user-images.githubusercontent.com/800930/144701095-f28bb927-d644-4fd2-b83b-c39da5a0bfc4.jpg)
 
+### PCB Mount 
 ### Plate Foam & Switch plate
 
 The 2mm plate foam goes between the PCB and switch plate.  Make sure those are in place before placing your switches in.  As you insert switch one at a time, make they snap into switch plate completely.  You man need to wedge a finger or tool in between the PCB and plate to push the plate upwards while pushing the switch downwards.
@@ -155,7 +156,7 @@ The 2mm plate foam goes between the PCB and switch plate.  Make sure those are i
 ![IMG_3048 (1)](https://user-images.githubusercontent.com/800930/144715808-5441f024-4c31-4cf4-8151-d7efeb58badb.jpg)
 
 ## Case Assembly
-Double check that the protective paper masking has been peeled of the front AND back of eacy acrylic layer.  Try to find a dust-free area to work in, and have a microfiber cloth handy to wipe of dust that collects on the acrylic.  Best to keep the masking on until needed to minimize dust and scratches.
+Double check that the protective paper masking has been peeled off the front **and** back of eacy acrylic layer.  Try to find a dust-free area to work in, and have a microfiber cloth handy to wipe of dust that collects on the acrylic.  Best to keep the masking on until needed to minimize dust and scratches.
 
 ### Feet #1 - 6mm screws (x5) & 24mm standoffs (x5)
 
