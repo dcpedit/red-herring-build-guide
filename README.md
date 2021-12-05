@@ -82,6 +82,7 @@ goes in the square pad.  Use the left holes for a stepped keycap.
 ![caps-led](https://user-images.githubusercontent.com/800930/144701449-40d33008-8b8e-45d1-aa4d-8b70a19723bb.jpg)
 
 ### Capslock 470 resistor (R8)
+Orientation does not matter.
 
 ![r8](https://user-images.githubusercontent.com/800930/144701182-67c8341a-5e76-4710-a43c-32560f133122.jpg)
 
@@ -150,6 +151,8 @@ Install and solder switches and rotary encoder.
 ![rotary-encoder](https://user-images.githubusercontent.com/800930/144701095-f28bb927-d644-4fd2-b83b-c39da5a0bfc4.jpg)
 
 ### PCB Mount Stabalizers (x5)
+This is also a high resolution image of the completed PCB.
+
 ![full_board](https://user-images.githubusercontent.com/800930/144729033-c1ff4f3c-ff49-4ce4-8191-3a6c88df637b.jpg)
 
 ### Plate Foam & Switch plate
