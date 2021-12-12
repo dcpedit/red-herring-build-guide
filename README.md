@@ -196,7 +196,7 @@ Double check that the protective paper masking has been peeled off the front **a
 
 ![IMG_3017](https://user-images.githubusercontent.com/800930/144702092-a48e1149-e481-4907-8348-4cbebf39155d.jpg)
 
-### PCB & Switch Plate
+### Assembled PCB with stabalizers, 2mm plate foam, switch plate, & switches
 Make sure your OLED display has been inserted into the OLED header. 2mm plate foam goes inbetween the PCB and switch plate.
 
 ![IMG_2982](https://user-images.githubusercontent.com/800930/144715823-a4e80411-b0ec-420b-a25a-0015eba6a05f.jpg)
@@ -223,3 +223,6 @@ You may need to tighten the knob screws (one one each side) slightly before the 
 
 ![IMG_3025](https://user-images.githubusercontent.com/800930/144702105-8c7c3258-5ced-4c9f-ab02-6bb14084bd6a.jpg)
 
+### Rubber feet
+
+Peel paper off the adhesive rubber feet and place one on each corner of the bottom of the keyboard.
