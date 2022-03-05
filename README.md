@@ -87,7 +87,7 @@ Orientation does not matter.
 ![r8](https://user-images.githubusercontent.com/800930/144701182-67c8341a-5e76-4710-a43c-32560f133122.jpg)
 
 #### Rev 2 Capslock
-The resistor and LED for rev 2 was moved up to the top of the PCB.  The kit may come with a 470Ω resistor, but you can test the brightness before soldering.  I've found that with white colored LEDs, a higher resistance was needed to make the light dimmer (ie. 10kΩ)
+The resistor and LED for rev 2 was moved up to the top of the PCB above the MCU, so look for the labels there.  The kit may come with a 470Ω resistor, but you can test the brightness before soldering.  I've found that with white colored LEDs, a higher resistance was needed to make it not as bright (ie. 10kΩ)
 
 ![caps_lock_r2](https://user-images.githubusercontent.com/800930/156900795-03beda56-8229-49b9-a1f9-ccb663375e88.jpg)
 
