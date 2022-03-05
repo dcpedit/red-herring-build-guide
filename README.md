@@ -86,11 +86,14 @@ Orientation does not matter.
 
 ![r8](https://user-images.githubusercontent.com/800930/144701182-67c8341a-5e76-4710-a43c-32560f133122.jpg)
 
+#### Rev 2 Capslock
+The resistor and LED for rev 2 was moved up to the top of the PCB.  The kit may come with a 470Ω resistor, but you can test the brightness before soldering.  I've found that with white colored LEDs, a higher resistance was needed to make the light dimmer (ie. 10kΩ)
+
 ### Capacitors (C1-4)
 Orientation does not matter. Solder based on the labeled values.
 | Ref    | Value |
 | ------ | ----- |
-| C1, C2 | 22uF  |
+| C1, C2 | 22pF  |
 | C3, C4 | 0.1uF |
 
 ![c1](https://user-images.githubusercontent.com/800930/144701002-f5a47306-cd93-4175-97ea-28e250d62aed.jpg)
@@ -202,7 +205,7 @@ Make sure your OLED display has been inserted into the OLED header. 2mm plate fo
 ![IMG_2982](https://user-images.githubusercontent.com/800930/144715823-a4e80411-b0ec-420b-a25a-0015eba6a05f.jpg)
 
 ### PCB top layer
-The acrylic areas that extend inward on this layer need to fit into the open areas in the switch plate.  The fitment is tight in order to keep the PCB from shifting, so make sure this layer is pushed all the way down on top of the previous layer and that it's not caught onto an edged of the switch plate.
+The acrylic areas that extend inward on this layer need to fit into the open areas in the switch plate.  The fitment is tight in order to keep the PCB from shifting, so make sure this layer is pushed all the way down with no gaps and that it's not caught onto an edged of the switch plate.  The PCB basically sits on top of the 1mm foam, and is held in position by the 2mm foam and this acrylic layer.
 
 ![IMG_3019](https://user-images.githubusercontent.com/800930/144702097-8040aab9-7b8b-45c5-9991-6125a6cbd798.jpg)
 
@@ -217,6 +220,9 @@ The acrylic areas that extend inward on this layer need to fit into the open are
 ### Clear top: 8mm screws (x12)
 
 ![IMG_3023](https://user-images.githubusercontent.com/800930/144702103-6c3f5b47-84c4-4367-88dd-210a8e24e82b.jpg)
+
+#### Rev 2 top with Windows
+This revision uses a top layer that matches the rest of the case, but with cutouts for clear acrylic pieces over the top components and OLED screen.  The windows are held in place by the natural taper of the acrylic edges, so it's easiest to insert/remove the pieces from the bottom.  I've found that the easiest way is to place the clear windows down first, and then placing the top layer down while shifting the window pieces into position before finally pressing everything into place.
 
 ### Rotary Knob
 You may need to tighten the knob screws (one one each side) slightly before the knob hits the bottom.  Otherwise, you may not have engough clearance below the knob for the rotary knob "button" to be depressed (when you push straight down on the knob).
