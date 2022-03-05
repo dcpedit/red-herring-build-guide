@@ -89,6 +89,8 @@ Orientation does not matter.
 #### Rev 2 Capslock
 The resistor and LED for rev 2 was moved up to the top of the PCB.  The kit may come with a 470Ω resistor, but you can test the brightness before soldering.  I've found that with white colored LEDs, a higher resistance was needed to make the light dimmer (ie. 10kΩ)
 
+![caps_lock_r2](https://user-images.githubusercontent.com/800930/156900255-fbef41cb-969a-4f4b-9da6-7e7790a1c1fe.jpg)
+
 ### Capacitors (C1-4)
 Orientation does not matter. Solder based on the labeled values.
 | Ref    | Value |
@@ -223,6 +225,8 @@ The acrylic areas that extend inward on this layer need to fit into the open are
 
 #### Rev 2 top with Windows
 This revision uses a top layer that matches the rest of the case, but with cutouts for clear acrylic pieces over the top components and OLED screen.  The windows are held in place by the natural taper of the acrylic edges, so it's easiest to insert/remove the pieces from the bottom.  I've found that the easiest way is to place the clear windows down first, and then placing the top layer down while shifting the window pieces into position before finally pressing everything into place.
+
+![RH_v3_windows](https://user-images.githubusercontent.com/800930/156900540-bbadc8cf-01bc-42d5-a429-14b40074b5e9.jpg)
 
 ### Rotary Knob
 You may need to tighten the knob screws (one one each side) slightly before the knob hits the bottom.  Otherwise, you may not have engough clearance below the knob for the rotary knob "button" to be depressed (when you push straight down on the knob).
