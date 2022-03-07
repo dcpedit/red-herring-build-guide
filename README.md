@@ -10,6 +10,7 @@ You will need the following tools and components to build the keyboard (not incl
 - USB Type C cable
 - 1.5mm allen wrentch (black screws, knob screw)
 - 1.27mm allen wrentch (silver screws)
+
 ## Included Components
 | Ref     | Component              | Qty | Notes |
 | ---     | ---------              | --- | ----- |
@@ -23,7 +24,7 @@ You will need the following tools and components to build the keyboard (not incl
 | OLED    | 4 pin header           | 1
 | USB     | GCT USB4085 USB C port | 1
 | POWER   | 3mm LED                | 1
-| Capslock| 1.8mm LED              | 1
+| Capslock| 1.8mm LED (3mm rev 2)  | 1
 | R1, R7  | 1.5k Resistor          | 2 
 | R8      | 470 Resistor           | 1 
 | R2, R5  | 5.1k Resistor          | 2 
@@ -49,10 +50,15 @@ You will need the following tools and components to build the keyboard (not incl
 |         | Case foam (1mm)        | 1
 |         | Acrylic case layers    | 7
 
+## Instructions
+Some things to keep in mind is that there's very little clearance under the PCB, which is why the bottom foam is only 1mm.  Make sure you keep things low-profile by clipping pins flush with the solder joints, and/or folding then down flat against the PCB before soldering whenever possible.
+
+One general tip is to bend the legs of the diodes/resistors/capacitors/LEDs outward after insterting them into the holes so that they stay in place when the PCB is flipped over.  This also reduces the height of the protruding legs, espeically if you also clip them flush with the solder joints.
+
 ### USB Port
-I like doing the USB port first because I have lots of space to work with.  Heat resistant tape will be useful here to keep the usb port in place.
-Solder one of the large legs first and check that the port is flush before soldering the other three legs. \
-Solder the smaller pins by applying no-clean flux across the pins, then drag a small amount of solder across the pins until all the holes are filled.
+I like doing the USB port first because I get lots of space to work with.  Heat resistant tape will be useful here to keep the usb port in place.
+Solder one of the large legs first and check that the port is flat against the PCB and not crooked before soldering the other three legs. \
+Solder the smaller pins by applying no-clean flux across the pins, then drag a small amount of solder across the pins until all the holes are filled.  If you accidentally bridge some pins, just clean all the solder off your solding iron tip, and try to "pick up" the extra solder with it.  If that doesn't work, you can use solder wick.
 
 ![usbc](https://user-images.githubusercontent.com/800930/144701028-55195723-9e37-4ee0-8cce-97262775312a.jpg)
 
@@ -87,7 +93,7 @@ Orientation does not matter.
 ![r8](https://user-images.githubusercontent.com/800930/144701182-67c8341a-5e76-4710-a43c-32560f133122.jpg)
 
 #### Rev 2 Capslock
-The resistor and LED for rev 2 was moved up to the top of the PCB above the MCU, so look for the labels there.  The kit may come with a 470Ω resistor, but you can test the brightness before soldering.  I've found that with white colored LEDs, a higher resistance was needed to make it not as bright (ie. 10kΩ)
+The resistor and LED for rev 2 was moved up to the top of the PCB above the MCU, so look for the labels there.  The kit may come with a 470Ω resistor, but you can test the brightness before soldering.  I've found that with white colored LEDs, a higher resistance was needed to make it less bright (ie. 10kΩ)
 
 ![caps_lock_r2](https://user-images.githubusercontent.com/800930/156900795-03beda56-8229-49b9-a1f9-ccb663375e88.jpg)
 
@@ -125,7 +131,7 @@ Orientation does not matter.
 
 ### Push Button (RESET, BOOT) and IC Socket
 Push buttons have no specific orientation. \
-Align the notch on the IC Socket with the markings on the PCB. 
+Align the notch on the IC Socket with the markings on the PCB. Fold the pins inward against the PCB before soldering.
 
 ![reset-boot](https://user-images.githubusercontent.com/800930/144701061-e5c8209f-8070-471a-a7a6-63bdfa80daea.jpg)
 ![mcu-socket](https://user-images.githubusercontent.com/800930/144701085-cd923aeb-6c7e-4874-a35e-32b6a685cbe9.jpg)
@@ -151,7 +157,7 @@ Insert ATmega32A into the IC socket. Make sure the notch on the microcontroller 
 
 ###  Encoder
 Install the stabilizers, then place the plate on top. \
-Install and solder switches and rotary encoder.
+Fold the pins inward against the PCB before soldering.
 
 ![rotary-encoder](https://user-images.githubusercontent.com/800930/144701095-f28bb927-d644-4fd2-b83b-c39da5a0bfc4.jpg)
 
